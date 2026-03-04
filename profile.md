@@ -4,6 +4,7 @@
 - Web Development
 - Backend Programming
 - Problem Solving
+- listening music
 
 ## What I Hope to Learn
 - How real-world projects use Git and GitHub
